@@ -1,0 +1,1 @@
+ALTER TABLE "shipkit_payment" ADD COLUMN "product_name" text;

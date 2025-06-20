@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1750117470816,
+      "tag": "0000_loving_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1750193187771,
+      "tag": "0001_add_product_name_to_payments",
+      "breakpoints": true
+    }
+  ]
+}
